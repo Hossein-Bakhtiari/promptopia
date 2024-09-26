@@ -22,7 +22,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
+
+
 Next.js
 MongoDB
 NextAuth
@@ -30,7 +32,9 @@ TailwindCSS
 
 
 
-🔋 Features
+## 🔋 Features
+
+
 👉 Modern Design with Glassmorphism Trend Style: A modern and visually appealing design, incorporating the glassmorphism trend style for a sleek and contemporary appearance.
 
 👉 Discover and Share AI Prompts: Allow users to discover AI prompts shared by the community and create their own prompts to share with the world.
